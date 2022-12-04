@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @testunz
-- 👀 I’m interested in python
+- 👀 I’m interested in front end developing and python coding
 - 🌱 I’m currently learning and studying about coding
 - 💞️ I’m looking to collaborate on a good work shift calendar
-- 📫 How to reach me ... search me on your dreams!
+- 📫 Don't ask for me, I am busy
 -
 
 <!---
